@@ -1,0 +1,15 @@
+{
+  "name": "IndustrialMold",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "moldID": { "type": "string" },
+      "wearIndex": { "type": "number" },
+      "lastAuditDate": { "type": "string", "format": "date" },
+      "bankPledgeStatus": { "type": "boolean" }
+    }
+  },
+  "methods": {
+    "calculateResidualValue": "return payload.wearIndex * assetBaseValue;"
+  }
+}
