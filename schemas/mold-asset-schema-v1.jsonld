@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "fdo": "https://purl.org/fdo/vocabulary/",
+    "schema": "https://schema.org/",
+    "cpm": "https://your-domain.org/cpm/vocabulary/",
+    "FatigueIndex": "cpm:FatigueIndex",
+    "ResidualValue": "cpm:ResidualValue",
+    "MouldMaterial": "cpm:MouldMaterial"
+  },
+  "@type": "fdo:FAIRDigitalObject",
+  "fdo:profile": "https://github.com/joy7758/CPM-FDO-Profile",
+  "schema:name": "High-Precision Punching Mold Asset",
+  "cpm:properties": {
+    "MouldMaterial": "DC53 High Performance Die Steel",
+    "FatigueIndex": {
+      "value": 0.85,
+      "unit": "ratio",
+      "description": "Critical fatigue point at 0.90"
+    },
+    "ResidualValue": {
+      "amount": 500000,
+      "currency": "CNY",
+      "algorithm": "https://api.your-node.org/op/calculate-residual"
+    }
+  },
+  "fdo:integrity": {
+    "hashAlgorithm": "SHA-256",
+    "hashValue": "待生成"
+  }
+}
