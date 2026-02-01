@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Mirror cnri/cordra
-        uses: bridgecrewcrew/docker-image-copy@master
+        uses: bridgecrew/docker-image-copy@master
         with:
           src_image: cnri/cordra:2.6.0
           dest_image: ghcr.io/${{ github.repository_owner }}/cordra:2.6.0
