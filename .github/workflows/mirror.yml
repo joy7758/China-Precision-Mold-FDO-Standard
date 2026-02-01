@@ -1,0 +1,13 @@
+name: Mirror Image
+on: [push]
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mirror cnri/cordra
+        uses: bridgecrewcrew/docker-image-copy@master
+        with:
+          src_image: cnri/cordra:2.6.0
+          dest_image: ghcr.io/${{ github.repository_owner }}/cordra:2.6.0
+          dest_username: ${{ github.actor }}
+          dest_password: ${{ secrets.GITHUB_TOKEN }}
