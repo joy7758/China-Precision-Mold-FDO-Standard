@@ -1,0 +1,10 @@
+services:
+  fdo-node:
+    image: cnri/cordra:2.6.0
+    container_name: cpm-fdo-instance
+    ports:
+      - "8080:8080"  # Management Console
+      - "9000:9000"  # DOIP 2.0 Interface
+    volumes:
+      - ./data:/data
+    restart: always
