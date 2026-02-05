@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19497089.svg)](https://doi.org/10.5281/zenodo.18497089) 
 
 China Precision Mold FDO Standard (CPM-FDO)
 1. Abstract
