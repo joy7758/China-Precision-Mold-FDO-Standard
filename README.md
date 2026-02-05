@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 China Precision Mold FDO Standard (CPM-FDO)
 1. Abstract
 The CPM-FDO project establishes a technical framework for transforming precision industrial molds into FAIR Digital Objects (FDOs). By encapsulating physical mold fatigue indices, residual value algorithms, and lifecycle telemetry into machine-actionable units, this standard enables seamless financial assetization (movable property pledge) and cross-border semantic interoperability under the DOIP 2.0 protocol.
