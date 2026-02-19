@@ -94,3 +94,7 @@ This repository implements Standard Domain `RR-CPM` under the RedRock Constituti
 Central Governance Hub:
 https://github.com/joy7758/RedRock-Constitution
 
+## Onepager / 一页纸
+
+- `RR-CPM` Onepager / 一页纸：`docs/onepager/RR-CPM_ONEPAGER_CN_EN.md`
+- Hub / 总入口：https://github.com/joy7758/RedRock-Constitution
