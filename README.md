@@ -68,3 +68,17 @@ docker run -d --name cpm-fdo-node \
 - **Q1**: Activation of Handle Prefix & Genesis FDO Minting. / 激活 Handle 前缀与创世 FDO 铸造。
 - **Q2**: DOIP-MCP (Model Context Protocol) Integration for LLM-native asset querying. / DOIP-MCP (模型上下文协议) 集成，用于 LLM 原生资产查询。
 - **Q3**: Pilot deployment with Tier-1 Commercial Banks for automated asset-backed financing. / 与一级商业银行进行试点部署，实现自动化资产支持融资。
+
+---
+
+## Belongs to RedRock Constitution / 隶属于红岩宪章体系
+
+This repository is part of the RedRock Constitution architecture framework.
+
+Please start from the central governance hub:
+
+https://github.com/joy7758/RedRock-Constitution
+
+本仓库属于红岩宪章体系，请从总入口开始阅读与理解：
+
+https://github.com/joy7758/RedRock-Constitution
