@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "China-Precision-Mold-FDO-Standard"
+type: software
+authors:
+  - family-names: "Zhang"
+    given-names: "Bin"
+repository-code: "https://github.com/joy7758/China-Precision-Mold-FDO-Standard"
+url: "https://github.com/joy7758/China-Precision-Mold-FDO-Standard"
+abstract: "Precision manufacturing domain standard for FAIR Digital Objects and DOIP interoperability."
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18497089"
+keywords:
+  - precision-mold
+  - fdo
+  - doip
+  - industrial-data
+  - interoperability
