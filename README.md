@@ -1,6 +1,42 @@
 # China Precision Mold FDO Standard (CPM-FDO)
 # 中国精密模具 FDO 标准 (CPM-FDO)
 
+<!-- SEARCH_VISIBILITY_BEGIN -->
+## Discoverability Snapshot / 检索曝光摘要
+
+- Standard ID / 标准编号: `RR-CPM`
+- Repository / 仓库名: `China-Precision-Mold-FDO-Standard`
+
+### EN Summary / 英文摘要
+Precision manufacturing domain standard for FAIR Digital Objects and DOIP interoperability.
+
+### CN Summary / 中文摘要
+面向精密制造场景的FDO与DOIP互操作标准。
+
+### SEO Keywords / 检索关键词
+`precision-mold`, `fdo`, `doip`, `industrial-data`, `interoperability`
+
+### Suggested Search Phrases (EN)
+- China-Precision-Mold-FDO-Standard RR-CPM open standard
+- China-Precision-Mold-FDO-Standard precision-mold fdo github
+- RR-CPM precision-mold reference implementation
+
+### 建议检索短语（中文）
+- China-Precision-Mold-FDO-Standard RR-CPM 标准 规范
+- China-Precision-Mold-FDO-Standard precision-mold fdo 仓库
+- RR-CPM 参考实现 红岩 宪章
+
+### Quick Links / 快速入口
+- Governance Hub / 总入口: https://github.com/joy7758/RedRock-Constitution
+- Standards Registry / 标准注册表: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-cpm
+- Repos Index / 仓库索引: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/REPOS_INDEX_CN_EN.md
+- Ecosystem Graph / 生态关系图: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/ECOSYSTEM_GRAPH_CN_EN.md
+- Onepager / 一页纸: https://github.com/joy7758/China-Precision-Mold-FDO-Standard/blob/main/docs/onepager/RR-CPM_ONEPAGER_CN_EN.md
+- Citation / 引用元数据: `CITATION.cff`
+- Security Policy / 安全策略: `SECURITY.md`
+- Machine-readable / 机器可读: `machine-readable/repository.json`
+<!-- SEARCH_VISIBILITY_END -->
+
 ## Bilingual Governance Notice
 
 ## Standard Domain Entry / 标准域入口
