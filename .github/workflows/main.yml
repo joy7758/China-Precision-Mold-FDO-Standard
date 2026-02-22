@@ -9,7 +9,7 @@ jobs:
           docker pull cnri/cordra:2.6.0
           docker save cnri/cordra:2.6.0 > cordra.tar
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: cordra-image-tar
           path: cordra.tar
